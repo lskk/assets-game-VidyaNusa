@@ -4,3 +4,13 @@
 |  |  |  |
 | fruits/buah1.png | https://github.com/lskk/assets-game-VidyaNusa/blob/master/fruits/buah1.png | Public domain |
 |  |  |  |
+| fruits/buah2.png | https://github.com/lskk/assets-game-VidyaNusa/blob/master/fruits/buah2.png | Public domain |
+|  |  |  |
+| fruits/buah3.png | https://github.com/lskk/assets-game-VidyaNusa/blob/master/fruits/buah3.png | Public domain |
+|  |  |  |
+| fruits/buah4.png | https://github.com/lskk/assets-game-VidyaNusa/blob/master/fruits/buah4.png | Public domain |
+|  |  |  |
+| fruits/buah5.png | https://github.com/lskk/assets-game-VidyaNusa/blob/master/fruits/buah5.png | Public domain |
+|  |  |  |
+| fruits/buah6.png | https://github.com/lskk/assets-game-VidyaNusa/blob/master/fruits/buah6.png | Public domain |
+|  |  |  |
