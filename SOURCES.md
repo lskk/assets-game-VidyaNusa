@@ -30,3 +30,11 @@
 |  |  |  |
 | animal/enemy7.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy7.png | Public domain |
 |  |  |  |
+| animal/11954350711466098417johnny_automatic_tortoise.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/11954350711466098417johnny_automatic_tortoise.svg.med.png | Public domain |
+|  |  |  |
+| animal/11954367011487358788johnny_automatic_oyster_catcher.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/11954367011487358788johnny_automatic_oyster_catcher.svg.med.png | Public domain |
+|  |  |  |
+| animal/11954369712094657047rabbit_aurore_d._rore__01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/11954369712094657047rabbit_aurore_d._rore__01.svg.med.png | Public domain |
+|  |  |  |
+| animal/1195438926464315668bee_aurore_d._rore__01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/1195438926464315668bee_aurore_d._rore__01.svg.med.png | Public domain |
+|  |  |  |
