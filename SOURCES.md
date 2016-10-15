@@ -40,3 +40,23 @@
 |  |  |  |
 | player/Farmer.gif| https://github.com/lskk/assets-game-VidyaNusa/blob/master/players/Farmer.gif | Public domain |
 |  |  |  |
+| garden/11949847101917850511cayennepepperrevisited_d_01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11949847101917850511cayennepepperrevisited_d_01.svg.med.png | Public domain |
+|  |  |  |
+| garden/11949847152118158226tulips_ganson.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11949847152118158226tulips_ganson.svg.med.png | Public domain |
+|  |  |  |
+| garden/1194984732275610276daffodil_jonathan_dietri_01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1194984732275610276daffodil_jonathan_dietri_01.svg.med.png | Public domain |
+|  |  |  |
+| garden/194984733759158166flowers_jonathan_dietric_01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1194984733759158166flowers_jonathan_dietric_01.svg.med.png | Public domain |
+|  |  |  |
+| garden/11949847342128891945cartoon_tree_01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11949847342128891945cartoon_tree_01.svg.med.png | Public domain |
+|  |  |  |
+| garden/11949847342128891945cartoon_tree_01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11949847342128891945cartoon_tree_01.svg.med.png | Public domain |
+|  |  |  |
+| garden/11949850052034490051trillium_0_symbol_1m_bwh.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11949850052034490051trillium_0_symbol_1m_bwh.svg.med.png | Public domain |
+|  |  |  |
+| garden/11949852211444877206rose.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11949852211444877206rose.svg.med.png | Public domain |
+|  |  |  |
+| garden/11949861111671588429potato_nicu_buculei_.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11949861111671588429potato_nicu_buculei_.svg.med.png | Public domain |
+|  |  |  |
+| garden/1194986307791981886what_s_up_doc_01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1194986307791981886what_s_up_doc_01.svg.med.png| Public domain |
+|  |  |  |
