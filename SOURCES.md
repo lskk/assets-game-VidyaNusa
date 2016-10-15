@@ -14,3 +14,19 @@
 |  |  |  |
 | fruits/buah6.png | https://github.com/lskk/assets-game-VidyaNusa/blob/master/fruits/buah6.png | Public domain |
 |  |  |  |
+| animal/enemy10.png | https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy10.png | Public domain |
+|  |  |  |
+| animal/enemy11.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy11.png | Public domain |
+|  |  |  |
+| animal/enemy12.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy12.png | Public domain |
+|  |  |  |
+| animal/enemy2.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy2.png | Public domain |
+|  |  |  |
+| animal/enemy3.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy3.png | Public domain |
+|  |  |  |
+| animal/enemy4.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy4.png | Public domain |
+|  |  |  |
+| animal/enemy5.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy5.png | Public domain |
+|  |  |  |
+| animal/enemy7.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy7.png | Public domain |
+|  |  |  |
