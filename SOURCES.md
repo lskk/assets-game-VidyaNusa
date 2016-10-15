@@ -38,3 +38,5 @@
 |  |  |  |
 | animal/1195438926464315668bee_aurore_d._rore__01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/1195438926464315668bee_aurore_d._rore__01.svg.med.png | Public domain |
 |  |  |  |
+| player/Farmer.gif| https://github.com/lskk/assets-game-VidyaNusa/blob/master/players/Farmer.gif | Public domain |
+|  |  |  |
