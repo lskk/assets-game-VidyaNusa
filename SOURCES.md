@@ -14,11 +14,11 @@
 | animal/enemy3.png| http://www.clker.com/clipart-1749.html | Public domain |
 | animal/enemy4.png| http://www.clker.com/clipart-3343.html | Public domain |
 | animal/enemy5.png| http://www.clker.com/clipart-3331.html | Public domain |
-| animal/enemy7.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy7.png | Public domain |
-| animal/11954350711466098417johnny_automatic_tortoise.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/11954350711466098417johnny_automatic_tortoise.svg.med.png | Public domain |
-| animal/11954367011487358788johnny_automatic_oyster_catcher.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/11954367011487358788johnny_automatic_oyster_catcher.svg.med.png | Public domain |
-| animal/11954369712094657047rabbit_aurore_d._rore__01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/11954369712094657047rabbit_aurore_d._rore__01.svg.med.png | Public domain |
-| animal/1195438926464315668bee_aurore_d._rore__01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/1195438926464315668bee_aurore_d._rore__01.svg.med.png | Public domain |
+| animal/enemy7.png| http://www.clker.com/clipart-11781.html | Public domain |
+| animal/11954350711466098417johnny_automatic_tortoise.svg.med.png| http://www.clker.com/clipart-11119.html | Public domain |
+| animal/11954367011487358788johnny_automatic_oyster_catcher.svg.med.png| http://www.clker.com/clipart-16090.html | Public domain |
+| animal/11954369712094657047rabbit_aurore_d._rore__01.svg.med.png| http://www.clker.com/clipart-11353.html | Public domain |
+| animal/1195438926464315668bee_aurore_d._rore__01.svg.med.png| http://www.clker.com/clipart-11588.html | Public domain |
 | player/Farmer.gif| https://github.com/lskk/assets-game-VidyaNusa/blob/master/players/Farmer.gif | Public domain |
 | garden/11949847101917850511cayennepepperrevisited_d_01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11949847101917850511cayennepepperrevisited_d_01.svg.med.png | Public domain |
 | garden/11949847152118158226tulips_ganson.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11949847152118158226tulips_ganson.svg.med.png | Public domain |
