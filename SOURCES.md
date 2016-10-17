@@ -7,13 +7,13 @@
 | fruits/buah4.png | http://www.clker.com/clipart-4058.html | Public domain |
 | fruits/buah5.png | http://www.clker.com/clipart-4049.html | Public domain |
 | fruits/buah6.png | http://www.clker.com/clipart-3992.html | Public domain |
-| animal/enemy10.png | https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy10.png | Public domain |
-| animal/enemy11.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy11.png | Public domain |
-| animal/enemy12.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy12.png | Public domain |
-| animal/enemy2.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy2.png | Public domain |
-| animal/enemy3.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy3.png | Public domain |
-| animal/enemy4.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy4.png | Public domain |
-| animal/enemy5.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy5.png | Public domain |
+| animal/enemy10.png | http://www.clker.com/clipart-13429.html | Public domain |
+| animal/enemy11.png| http://www.clker.com/clipart-13976.html | Public domain |
+| animal/enemy12.png| http://www.clker.com/clipart-11395.html | Public domain |
+| animal/enemy2.png| http://www.clker.com/clipart-1745.html | Public domain |
+| animal/enemy3.png| http://www.clker.com/clipart-1749.html | Public domain |
+| animal/enemy4.png| http://www.clker.com/clipart-3343.html | Public domain |
+| animal/enemy5.png| http://www.clker.com/clipart-3331.html | Public domain |
 | animal/enemy7.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy7.png | Public domain |
 | animal/11954350711466098417johnny_automatic_tortoise.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/11954350711466098417johnny_automatic_tortoise.svg.med.png | Public domain |
 | animal/11954367011487358788johnny_automatic_oyster_catcher.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/11954367011487358788johnny_automatic_oyster_catcher.svg.med.png | Public domain |
