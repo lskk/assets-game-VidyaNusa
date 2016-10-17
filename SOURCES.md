@@ -20,15 +20,14 @@
 | animal/11954369712094657047rabbit_aurore_d._rore__01.svg.med.png| http://www.clker.com/clipart-11353.html | Public domain |
 | animal/1195438926464315668bee_aurore_d._rore__01.svg.med.png| http://www.clker.com/clipart-11588.html | Public domain |
 | player/Farmer.gif| http://www.clipartpanda.com/clipart_images/producers-and-consumers-60988038 | Public domain |
-| garden/11949847101917850511cayennepepperrevisited_d_01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11949847101917850511cayennepepperrevisited_d_01.svg.med.png | Public domain |
-| garden/11949847152118158226tulips_ganson.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11949847152118158226tulips_ganson.svg.med.png | Public domain |
-| garden/1194984732275610276daffodil_jonathan_dietri_01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1194984732275610276daffodil_jonathan_dietri_01.svg.med.png | Public domain |
-| garden/194984733759158166flowers_jonathan_dietric_01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1194984733759158166flowers_jonathan_dietric_01.svg.med.png | Public domain |
-| garden/11949847342128891945cartoon_tree_01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11949847342128891945cartoon_tree_01.svg.med.png | Public domain |
-| garden/11949847342128891945cartoon_tree_01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11949847342128891945cartoon_tree_01.svg.med.png | Public domain |
-| garden/11949850052034490051trillium_0_symbol_1m_bwh.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11949850052034490051trillium_0_symbol_1m_bwh.svg.med.png | Public domain |
-| garden/11949852211444877206rose.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11949852211444877206rose.svg.med.png | Public domain |
-| garden/11949861111671588429potato_nicu_buculei_.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11949861111671588429potato_nicu_buculei_.svg.med.png | Public domain |
+| garden/11949847101917850511cayennepepperrevisited_d_01.svg.med.png| http://www.clker.com/clipart-2524.html | Public domain |
+| garden/11949847152118158226tulips_ganson.svg.med.png| http://www.clker.com/clipart-2530.html | Public domain |
+| garden/1194984732275610276daffodil_jonathan_dietri_01.svg.med.png| http://www.clker.com/clipart-2545.html | Public domain |
+| garden/194984733759158166flowers_jonathan_dietric_01.svg.med.png| http://www.clker.com/clipart-2546.html | Public domain |
+| garden/11949847342128891945cartoon_tree_01.svg.med.png| http://www.clker.com/clipart-2548.html | Public domain |
+| garden/11949850052034490051trillium_0_symbol_1m_bwh.svg.med.png| http://www.clker.com/clipart-2876.html | Public domain |
+| garden/11949852211444877206rose.svg.med.png| http://www.clker.com/clipart-3115.html | Public domain |
+| garden/11949861111671588429potato_nicu_buculei_.svg.med.png| http://www.clker.com/clipart-2532.html | Public domain |
 | garden/1194986307791981886what_s_up_doc_01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1194986307791981886what_s_up_doc_01.svg.med.png| Public domain |
 | garden/119543308163161197Machovka_cucumber.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/119543308163161197Machovka_cucumber.svg.med.png| Public domain |
 | garden/1195432700720476154Machovka_marguerite.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1195432700720476154Machovka_marguerite.svg.med.png| Public domain |
