@@ -1,12 +1,12 @@
 | File | Source | License |
 |------|--------|---------|
 | garden/1197114378900115008zeimusu_Red_rose.svg.med.png | http://www.clker.com/clipart-14849.html | Public domain |
-| fruits/buah1.png | https://github.com/lskk/assets-game-VidyaNusa/blob/master/fruits/buah1.png | Public domain |
-| fruits/buah2.png | https://github.com/lskk/assets-game-VidyaNusa/blob/master/fruits/buah2.png | Public domain |
-| fruits/buah3.png | https://github.com/lskk/assets-game-VidyaNusa/blob/master/fruits/buah3.png | Public domain |
-| fruits/buah4.png | https://github.com/lskk/assets-game-VidyaNusa/blob/master/fruits/buah4.png | Public domain |
-| fruits/buah5.png | https://github.com/lskk/assets-game-VidyaNusa/blob/master/fruits/buah5.png | Public domain |
-| fruits/buah6.png | https://github.com/lskk/assets-game-VidyaNusa/blob/master/fruits/buah6.png | Public domain |
+| fruits/buah1.png | http://www.clker.com/clipart-2054.html | Public domain |
+| fruits/buah2.png | http://www.clker.com/clipart-3986.html | Public domain |
+| fruits/buah3.png | http://www.clker.com/clipart-3991.html | Public domain |
+| fruits/buah4.png | http://www.clker.com/clipart-4058.html | Public domain |
+| fruits/buah5.png | http://www.clker.com/clipart-4049.html | Public domain |
+| fruits/buah6.png | http://www.clker.com/clipart-3992.html | Public domain |
 | animal/enemy10.png | https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy10.png | Public domain |
 | animal/enemy11.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy11.png | Public domain |
 | animal/enemy12.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/animal/enemy12.png | Public domain |
