@@ -43,21 +43,21 @@
 | garden/11949865851054580572flower_peterm_01.svg.med.png| http://www.clker.com/clipart-4373.html| Public domain |
 | garden/1194986587157518295red_flower_raphael_seban_01.svg.med.png| http://www.clker.com/clipart-4374.html| Public domain |
 | garden/119498659391600484fern_mo_01.svg.med.png| http://www.clker.com/clipart-4382.html| Public domain |
-| garden/1195424016921138315Machovka_radish.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1195424016921138315Machovka_radish.svg.med.png| Public domain |
-| garden/11954459701688473421Gerald_G_KU_impatiens_aurella.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11954459701688473421Gerald_G_KU_impatiens_aurella.svg.med.png| Public domain |
-| garden/1195445987127228092Gerald_G_GG_Erythronium_grandiflorum.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1195445987127228092Gerald_G_GG_Erythronium_grandiflorum.svg.med.png| Public domain |
-| garden/1195445950278514324Machovka_flower2.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1195445950278514324Machovka_flower2.svg.med.png| Public domain |
-| garden/11954459031366312271Gerald_G_GG_rosa_acicularis.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11954459031366312271Gerald_G_GG_rosa_acicularis.svg.med.png| Public domain |
-| garden/11954459001225712794Gerald_G_GG_cornus_canadensis.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11954459001225712794Gerald_G_GG_cornus_canadensis.svg.med.png| Public domain |
-| garden/1195445885769497878Machovka_flower_-_dandelion_1.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1195445885769497878Machovka_flower_-_dandelion_1.svg.med.png| Public domain |
-| garden/119544588073310636tomas_arad_redrose_1.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/119544588073310636tomas_arad_redrose_1.svg.med.png| Public domain |
-| garden/11954458611216330358Machovka_flower.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11954458611216330358Machovka_flower.svg.med.png| Public domain |
-| garden/11954458591374441564jeanmichel_orange_flower.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11954458591374441564jeanmichel_orange_flower.svg.med.png| Public domain |
-| garden/11954458571842663612Machovka_spring_flower.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11954458571842663612Machovka_spring_flower.svg.med.png| Public domain |
-| garden/11954353621702136054saguaro_cactus_fenn_01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11954353621702136054saguaro_cactus_fenn_01.svg.med.png| Public domain |
-| garden/11954460091215437642Machovka_sunflower.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11954460091215437642Machovka_sunflower.svg.med.png| Public domain |
-| garden/1195446023489415063Gerald_G_GG_anemone_canadensis.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1195446023489415063Gerald_G_GG_anemone_canadensis.svg.med.png| Public domain |
-| garden/11970858762049507471tom_daffodil.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11970858762049507471tom_daffodil.svg.med.png| Public domain |
+| garden/1195424016921138315Machovka_radish.svg.med.png| http://www.clker.com/clipart-radish.html| Public domain |
+| garden/11954459701688473421Gerald_G_KU_impatiens_aurella.svg.med.png| http://www.clker.com/clipart-12526.html| Public domain |
+| garden/1195445987127228092Gerald_G_GG_Erythronium_grandiflorum.svg.med.png| http://www.clker.com/clipart-12531.html| Public domain |
+| garden/1195445950278514324Machovka_flower2.svg.med.png| http://www.clker.com/clipart-12521.html| Public domain |
+| garden/11954459031366312271Gerald_G_GG_rosa_acicularis.svg.med.png| http://www.clker.com/clipart-12507.html| Public domain |
+| garden/11954459001225712794Gerald_G_GG_cornus_canadensis.svg.med.png| http://www.clker.com/clipart-12506.html| Public domain |
+| garden/1195445885769497878Machovka_flower_-_dandelion_1.svg.med.png| http://www.clker.com/clipart-12501.html| Public domain |
+| garden/119544588073310636tomas_arad_redrose_1.svg.med.png| http://www.clker.com/clipart-12499.html| Public domain |
+| garden/11954458611216330358Machovka_flower.svg.med.png| http://www.clker.com/clipart-12493.html| Public domain |
+| garden/11954458591374441564jeanmichel_orange_flower.svg.med.png| http://www.clker.com/clipart-12492.html| Public domain |
+| garden/11954458571842663612Machovka_spring_flower.svg.med.png| http://www.clker.com/clipart-12491.html | Public domain |
+| garden/11954353621702136054saguaro_cactus_fenn_01.svg.med.png|http://www.clker.com/clipart-11150.html | Public domain |
+| garden/11954460091215437642Machovka_sunflower.svg.med.png| http://www.clker.com/clipart-12538.html | Public domain |
+| garden/1195446023489415063Gerald_G_GG_anemone_canadensis.svg.med.png| http://www.clker.com/clipart-12543.html | Public domain |
+| garden/11970858762049507471tom_daffodil.svg.med.png| http://www.clker.com/clipart-12826.html | Public domain |
 | garden/11970934601866549666johnny_automatic_rose_1.svg.med.png| http://www.clker.com/clipart-13624.html | Public domain |
 | garden/1197093626486533389johnny_automatic_pansy.svg.med.png| http://www.clker.com/clipart-13636.html | Public domain |
 | garden/11970936791224950148johnny_automatic_morning_glory.svg.med.png| http://www.clker.com/clipart-13640.html | Public domain |
