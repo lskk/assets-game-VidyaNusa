@@ -42,7 +42,8 @@
 | garden/1194986574521099551flowerandpot_daniel_ste_r.svg.med.png| http://www.clker.com/clipart-4369.html| Public domain |
 | garden/11949865851054580572flower_peterm_01.svg.med.png| http://www.clker.com/clipart-4373.html| Public domain |
 | garden/1194986587157518295red_flower_raphael_seban_01.svg.med.png| http://www.clker.com/clipart-4374.html| Public domain |
-| garden/119498659391600484fern_mo_01.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/119498659391600484fern_mo_01.svg.med.png| Public domain |
+| garden/119498659391600484fern_mo_01.svg.med.png| http://www.clker.com/clipart-4382.html| Public domain |
+
 | garden/1195424016921138315Machovka_radish.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1195424016921138315Machovka_radish.svg.med.png| Public domain |
 | garden/11954459701688473421Gerald_G_KU_impatiens_aurella.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11954459701688473421Gerald_G_KU_impatiens_aurella.svg.med.png| Public domain |
 | garden/1195445987127228092Gerald_G_GG_Erythronium_grandiflorum.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1195445987127228092Gerald_G_GG_Erythronium_grandiflorum.svg.med.png| Public domain |
@@ -71,11 +72,13 @@
 | garden/1197114378900115008zeimusu_Red_rose.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1197114378900115008zeimusu_Red_rose.svg.med.png| Public domain |
 | garden/1197115300172633010Chrisdesign_Carrot.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1197115300172633010Chrisdesign_Carrot.svg.med.png| Public domain |
 | garden/11971259451272591264SRD_radish.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11971259451272591264SRD_radish.svg.med.png| Public domain |
-| garden/11971482181431377199martinix_leaves.svg.med.png| https://https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11971482181431377199martinix_leaves.svg.med.png| Public domain |
-| garden/1197148667612761048dadoprom_Helianthus.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1197148667612761048dadoprom_Helianthus.svg.med.png| Public domain |
-| garden/11971509682128685300Machovka_flower_-_dandelion_2.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/11971509682128685300Machovka_flower_-_dandelion_2.svg.med.png| Public domain |
-| garden/1197162588358814691PeterM_Tree.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1197162588358814691PeterM_Tree.svg.med.png| Public domain |
-| garden/1206559449526710806jenni0206_Whimsical_pink_flower.svg.med.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/1206559449526710806jenni0206_Whimsical_pink_flower.svg.med.png| Public domain |
+
+| garden/11971482181431377199martinix_leaves.svg.med.png| www.clker.com/clipart-15674.html| Public domain |
+| garden/1197148667612761048dadoprom_Helianthus.svg.med.png| http://www.clker.com/clipart-15800.html| Public domain |
+| garden/11971509682128685300Machovka_flower_-_dandelion_2.svg.med.png| http://www.clker.com/clipart-12501.html | Public domain |
+| garden/1197162588358814691PeterM_Tree.svg.med.png| http://www.clker.com/clipart-10381.html | Public domain |
+| garden/1206559449526710806jenni0206_Whimsical_pink_flower.svg.med.png| http://www.clker.com/clipart-16564.html| Public domain |
+
 | garden/buah7.png| http://www.clker.com/clipart-4032.html| Public domain |
 | garden/bunga1.png| http://www.clker.com/clipart-12469.html | Public domain |
 | garden/bunga10.png| http://www.clker.com/clipart-12502.html| Public domain |
