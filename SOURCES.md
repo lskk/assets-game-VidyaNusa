@@ -85,18 +85,18 @@
 | garden/bunga14.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/bunga14.png| Public domain |
 | garden/bunga15.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/bunga15.png| Public domain |
 | garden/bunga17.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/bunga17.png| Public domain |
-| garden/bunga18.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/bunga18.png| Public domain |
-| garden/bunga19.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/bunga19.png| Public domain |
-| garden/bunga2.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/bunga2.png| Public domain |
-| garden/bunga20.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/bunga20.png| Public domain |
-| garden/bunga22.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/bunga22.png| Public domain |
-| garden/bunga3.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/bunga3.png| Public domain |
-| garden/bunga4.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/bunga4.png| Public domain |
-| garden/bunga5.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/bunga5.png| Public domain |
-| garden/bunga6.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/bunga6.png| Public domain |
-| garden/bunga7.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/bunga7.png| Public domain |
-| garden/bunga8.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/bunga8.png| Public domain |
-| garden/bunga9.png| https://github.com/lskk/assets-game-VidyaNusa/blob/master/garden/bunga9.png| Public domain |
+| garden/bunga18.png| http://www.clker.com/clipart-3158.html | Public domain |
+| garden/bunga19.png| http://www.clker.com/clipart-3159.html | Public domain |
+| garden/bunga2.png| http://www.clker.com/clipart-12472.html| Public domain |
+| garden/bunga20.png| http://www.clker.com/clipart-9629.html | Public domain |
+| garden/bunga22.png| http://www.clker.com/clipart-11161.html | Public domain |
+| garden/bunga3.png| http://www.clker.com/clipart-12478.html| Public domain |
+| garden/bunga4.png| http://www.clker.com/clipart-12483.html| Public domain |
+| garden/bunga5.png| http://www.clker.com/clipart-12488.html| Public domain |
+| garden/bunga6.png| http://www.clker.com/clipart-12489.html | Public domain |
+| garden/bunga7.png| http://www.clker.com/clipart-12494.html | Public domain |
+| garden/bunga8.png| http://www.clker.com/clipart-12496.html | Public domain |
+| garden/bunga9.png| http://www.clker.com/clipart-12500.html | Public domain |
 | garden/sayur10.png| http://www.clker.com/clipart-10153.html | Public domain |
 | garden/sayur11.png| http://www.clker.com/clipart-10221.html| Public domain |
 | garden/sayur12.png| http://www.clker.com/clipart-10358.html | Public domain |
